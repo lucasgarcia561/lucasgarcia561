@@ -1,7 +1,7 @@
 ### Olá! Sou o Lucas Garcia 👋
 
 - 🔭 Atualmente estou migrando de carreira
-- 🌱 Estudando programação Full Stack
+- 🌱 Estudando programação Full Stack na Gama Academy
 - 📫 Contate-me no email: lucasgarcia561@gmail.com
 - 😄 Pronouns: ele/dele
 
